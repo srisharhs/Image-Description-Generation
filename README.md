@@ -39,7 +39,7 @@ Model generates probability distribution: LSTM-based model predicts word probabi
 Word with maximum probability chosen: Greedy Search Algorithm selects next word based on highest probability.
 
 # Requirements
-Tensorflow
-Anaconda
-Python 3.7
-Numpy
+1. Tensorflow
+2. Anaconda
+3. Python 3.7
+4. Numpy
