@@ -1,5 +1,5 @@
 # Image-Description-Generation
-# Basic phases of description generation
+# Basic phases 
 -----------------------------------------------------------------------------------------------------------------------------
 # Data Collection and Reading data
 For the image description generator, Kaggle's Flickr30K dataset is used.The Flickr30k dataset contains about 30000 images each with 5 captions.
