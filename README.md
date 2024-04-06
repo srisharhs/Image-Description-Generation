@@ -45,5 +45,5 @@ Word with maximum probability chosen: Greedy Search Algorithm selects next word 
 4. Numpy
 
 # References 
-https://www.researchgate.net/publication/329037107_Image_Captioning_Based_on_Deep_Neural_Networks
-https://github.com/nirajankarki5/Flickr30k-Image-Caption-Generator-Using-Deep-Learning
+1. https://www.researchgate.net/publication/329037107_Image_Captioning_Based_on_Deep_Neural_Networks
+2. https://github.com/nirajankarki5/Flickr30k-Image-Caption-Generator-Using-Deep-Learning
